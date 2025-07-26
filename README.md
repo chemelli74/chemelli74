@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋 [![](https://img.shields.io/static/v1?label=Sponsor%20me%20via%20GitHub%20Sponsors&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/chemelli74)
+
 
 I'm an amateur programmer who enjoys developing open source software.
 My most important projects:
@@ -10,10 +11,7 @@ My most important projects:
   - [aiovodafone](https://github.com/chemelli74/aiovodafone)
 
 - [Media Portal](https://www.team-mediaportal.com/)
-  
-<!--
-[![Sponsor chemelli74 via GitHub Sponsors][github-sponsors-shield]][github-sponsors]
--->
+
 
 ## GitHub Stats
 
