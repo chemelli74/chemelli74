@@ -15,7 +15,7 @@ My most important projects:
 
 ## GitHub Stats
 
-![Simone Chemelli's GitHub stats](https://github-readme-stats.vercel.app/api?username=chemelli74&show_icons=true&theme=transparent)
+![Simone Chemelli's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=chemelli74&show_icons=true&theme=transparent)
 
 <!--
 **chemelli74/chemelli74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
