@@ -15,7 +15,38 @@ My most important projects:
 
 ## GitHub Stats
 
-![Simone Chemelli's GitHub stats](https://github-stats-extended.vercel.app/api?username=chemelli74&theme=tokyonight&show_icons=true)
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats-six-seven.vercel.app/api?username=chemelli74&show_icons=true&count_private=true&theme=transparent&title_color=03a9f4&icon_color=03a9f4&text_color=ffffff"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats-six-seven.vercel.app/api?username=chemelli74&show_icons=true&count_private=true&theme=default"
+    >
+    <img
+      alt="GitHub Stats"
+      src="https://github-readme-stats-six-seven.vercel.app/api?username=chemelli74&show_icons=true&count_private=true&theme=default"
+      height="165px"
+    >
+  </picture>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://streak-stats.demolab.com?user=chemelli74&theme=transparent&ring=03a9f4&fire=03a9f4&currStreakLabel=03a9f4&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=c9d1d9"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://streak-stats.demolab.com?user=chemelli74&theme=default&ring=03a9f4&fire=03a9f4&currStreakLabel=03a9f4"
+    >
+    <img
+      alt="GitHub Streak"
+      src="https://streak-stats.demolab.com?user=chemelli74&theme=default&ring=03a9f4&fire=03a9f4&currStreakLabel=03a9f4"
+      height="165px"
+    >
+  </picture>
+</p>
 
 <!--
 **chemelli74/chemelli74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
